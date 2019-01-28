@@ -1,0 +1,3 @@
+itms-services://?action=download-manifest&amp;url=https://gitee.com/iamwangjun/Note/raw/master/IPADownLoad/ipa.nk8686.plist
+
+itms-services://?action=download-manifest&amp;url=https://ipa.nk8686.cn/mhys/ipa.nk8686.plist
